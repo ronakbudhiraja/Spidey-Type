@@ -103,7 +103,7 @@ div.word {
   background-color: var(--primaryColor);
   position: fixed;
   top: 206px;
-  left: 283px;
+  left: 425px;
   /* right: 440px;   */
   animation: blink 1s infinite;
   display: none;
